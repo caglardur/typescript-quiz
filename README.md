@@ -1,6 +1,6 @@
 # QUIZ App
 
-This project is a quiz example of react with typescript template.
+This project is a quiz application made with React in Typescript template.
 
 ## Demo
 
